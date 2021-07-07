@@ -30,7 +30,7 @@ data. A schematic of the rack can be seen below.
 
 ![Siemens test rack](img/test_rack.svg "Siemens test rack")
 
-A total of four different operating states has been evoked during data collection. These include a
+A total of four different operating states have been evoked during data collection. These include a
 nominal state, weak cavitation, strong cavitation and a hydrolock. The respective pressure and flow
 measurements can be found in the table below.
 
