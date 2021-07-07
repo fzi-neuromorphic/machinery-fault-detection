@@ -50,7 +50,7 @@ def run_tests(models, test_data, test_target, test_results):
                             name, np.zeros(len(models)))
 
     for i, model in enumerate(models):
-        # Add loss and accuracy (the except is for the GRU with STFT data)
+        # Add loss and accuracy
         loss, accuracy = model.evaluate(test_data, test_target)
         test_results['test_loss'][i] = loss
         test_results['test_accuracy'][i] = accuracy
