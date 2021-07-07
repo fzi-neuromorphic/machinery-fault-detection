@@ -1,0 +1,5 @@
+/.vscode
+/tmp
+
+# Python ignores
+**/__pycache__
