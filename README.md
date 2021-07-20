@@ -213,3 +213,6 @@ The results shown below use the following metrics:
 | DS-CNN  | 99.89        | 99.12                  | 4527       | 13776          | 198672 |
 | WDCNN   | 99.62        | 98.13                  | 3309       | 12752          | 147112 |
 | DNN     | 69.26        | 68.05                  | 8431       | 13440          | 18896  |
+
+## License
+This work is licensed under the Creative Commons Attribution-NonCommercial 4.0 International License. To view a copy of this license, visit http://creativecommons.org/licenses/by-nc/4.0/.
