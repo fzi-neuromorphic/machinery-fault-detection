@@ -215,4 +215,4 @@ The results shown below use the following metrics:
 | DNN     | 69.26        | 68.05                  | 8431       | 13440          | 18896  |
 
 ## License
-This work is licensed under the Creative Commons Attribution-NonCommercial 4.0 International License. To view a copy of this license, visit http://creativecommons.org/licenses/by-nc/4.0/.
+This work is licensed under the Creative Commons Attribution-NonCommercial 4.0 International License. To view a copy of this license, visit http://creativecommons.org/licenses/by-nc/4.0/. For licenses of the Case Western Reserve University and Paderborn University datasets please see the respective subfolders.
